@@ -1,7 +1,7 @@
 ---
 name: "git-helper"
 slug: skylv-git-helper
-version: 1.0.0
+version: 1.0.2
 description: "Git Operations Assistant. Handle Git operations, resolve conflicts, manage branches. Triggers: Git, commit, merge, branch, pull request, conflict."
 author: SKY-lv
 license: MIT-0
